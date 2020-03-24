@@ -64,6 +64,6 @@ Our repository is quite simple, since we couldn't create a database, we used pan
 ## Links
 Include links to your repository, slides and kanban board. Feel free to include any other links associated with your project.
 
-[Repository](https://github.com/Zak-ScorpiuS/Project-Week-2-Barcelona.git)  
+[Repository](https://github.com/Zak-ScorpiuS/Project-Week-2-Barcelona)  
 [Slides](https://slides.com/arierap/ban-the-new-capital-for-tech#/1)  
 [Trello](https://trello.com/b/oDqZwVUa/project-2-barcelona)  
